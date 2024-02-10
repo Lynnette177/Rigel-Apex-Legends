@@ -1,5 +1,5 @@
 # APEX-Legends-Cheat
-Rigel cheat of Apex Legend.
+Rigel cheat of Apex Legends.
 
 # Functions
 Glow/SEER ESP/SKELETON/AIMBOT/SKIN CHANGER/NO SPREAD/BIGMAP ESP etc.
